@@ -1,6 +1,8 @@
+import 'userdata.dart';
+
 class Questions {
   String text;
-  String user;
+  User user;
 
   Questions({
     required this.text,

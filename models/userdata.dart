@@ -1,8 +1,8 @@
-class Userdata {
+class User {
   String userName;
   int userAge;
 
-  Userdata({
+  User({
     required this.userName,
     required this.userAge,
   });
